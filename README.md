@@ -1,6 +1,5 @@
 ## Hi there 🚀
 
-I'm a Cyber Security Enthusiast!!
 Welcome to my profile! I am a cybersecurity student passionate about understanding how systems work—and how to break them to make them safer :>
 I'm currently looking for an internship to gain real-world experience before starting university.
 
