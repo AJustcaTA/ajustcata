@@ -1,6 +1,7 @@
 # Hi there, I'm a Cyber Security Enthusiast! 🚀
 
-Welcome to my profile! I am a cybersecurity student passionate about understanding how systems work—and how to break them to make them safer. I'm currently looking for an internship to gain real-world experience before starting university.
+Welcome to my profile! I am a cybersecurity student passionate about understanding how systems work—and how to break them to make them safer :>
+I'm currently looking for an internship to gain real-world experience before starting university.
 
 ---
 
@@ -28,10 +29,3 @@ Here are some of the tools and technologies I work with:
 *   **Languages:** Python 🐍, HTML/CSS
 *   **Core Concepts:** Network Protocols, Risk Awareness, Threat Detection
 *   **Focus Areas:** Vulnerability Assessment, Security Analysis
-
----
-
-### 📫 Connect with Me
-I am always open to discussing security, technology, or new opportunities!
-
-[Link to your LinkedIn] • [Link to your Website/Blog]
