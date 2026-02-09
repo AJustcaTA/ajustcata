@@ -20,6 +20,7 @@ I actively participate in **Capture The Flag (CTF)** competitions to sharpen my 
 *   **Digital Forensics:** Investigating security events and analyzing evidence.
 *   **Ethical Hacking:** Understanding attack vectors to improve defense.
 *   **Cryptography:** Solving puzzles and securing data.
+*   **Reverse Engineering:** Analyzing software to understand how it works.
 
 ---
 
