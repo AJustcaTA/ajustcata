@@ -27,6 +27,6 @@ I actively participate in **Capture The Flag (CTF)** competitions to sharpen my 
 ### 🛠️ Skills & Toolbox
 Here are some of the tools and technologies I work with:
 
-*   **Languages:** Python 🐍, HTML/CSS
+*   **Languages:** Python 🐍, HTML/CSS, PHP
 *   **Core Concepts:** Network Protocols, Risk Awareness, Threat Detection
 *   **Focus Areas:** Vulnerability Assessment, Security Analysis
